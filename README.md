@@ -91,7 +91,8 @@ This project is designed to evaluate and enhance digital privacy, **not** for su
 
 The model and findings should be used responsibly and in alignment with ethical data practices.
 
-
+### Video Demo
+Link to the video can be found [here](https://www.loom.com/share/9e20ba399c204627b15efb61f049e8d6?sid=2d3c7e2e-25de-4221-9c6e-cfd60124dc46)
 ### References
 
 [1] SoF Dataset
